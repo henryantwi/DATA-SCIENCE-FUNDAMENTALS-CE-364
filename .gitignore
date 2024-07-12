@@ -1,0 +1,21 @@
+# Ignore compiled files
+*.class
+*.o
+*.pyc
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore dependencies and build artifacts
+node_modules/
+dist/
+.ipynb_checkpoints/
+build/
+new_retail_data.csv
+
+
