@@ -17,5 +17,6 @@ dist/
 .ipynb_checkpoints/
 build/
 new_retail_data.csv
+CricketTestMatchData.csv
 
 
